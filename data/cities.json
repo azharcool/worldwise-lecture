@@ -1,0 +1,136 @@
+{
+  "cities": [
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "b811",
+      "cityName": "Garray",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-28T05:57:55.003Z",
+      "notes": "",
+      "position": {
+        "lat": "41.85319643776675",
+        "lng": "-2.5048828125000004"
+      }
+    },
+    {
+      "id": "098d",
+      "cityName": "Andujar",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-28T05:58:39.875Z",
+      "notes": "",
+      "position": {
+        "lat": "38.16911413556086",
+        "lng": "-3.9331054687500004"
+      }
+    },
+    {
+      "id": "7097",
+      "cityName": "Helechosa de los Montes",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-28T05:58:51.338Z",
+      "notes": "",
+      "position": {
+        "lat": "39.26628442213066",
+        "lng": "-4.746093750000001"
+      }
+    },
+    {
+      "id": "4479",
+      "cityName": "Coslada",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-28T05:59:00.097Z",
+      "notes": "",
+      "position": {
+        "lat": "40.43022363450862",
+        "lng": "-3.5595703125"
+      }
+    },
+    {
+      "id": "be9d",
+      "cityName": "Coslada",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-28T05:59:00.097Z",
+      "notes": "",
+      "position": {
+        "lat": "40.43022363450862",
+        "lng": "-3.5595703125"
+      }
+    },
+    {
+      "id": "2238",
+      "cityName": "Merindad de Valdeporres",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-28T05:59:48.282Z",
+      "notes": "",
+      "position": {
+        "lat": "43.052833917627936",
+        "lng": "-3.8452148437500004"
+      }
+    },
+    {
+      "id": "a6f9",
+      "cityName": "Merindad de Valdeporres",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-07-28T05:59:48.282Z",
+      "notes": "",
+      "position": {
+        "lat": "43.052833917627936",
+        "lng": "-3.8452148437500004"
+      }
+    },
+    {
+      "id": "248f",
+      "cityName": "Saint-Denis-de-Jouhet",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-07-28T06:01:01.899Z",
+      "notes": "",
+      "position": {
+        "lat": "46.51351558059737",
+        "lng": "1.8896484375000002"
+      }
+    },
+    {
+      "id": "dfb7",
+      "cityName": "Zaragoza",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-03T03:55:33.508Z",
+      "notes": "",
+      "position": {
+        "lat": "41.88592102814744",
+        "lng": "-0.9667968750000001"
+      }
+    },
+    {
+      "id": "f365",
+      "cityName": "Fuentelsaz",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-03T04:35:32.425Z",
+      "notes": "",
+      "position": {
+        "lat": "41.062786068733026",
+        "lng": "-1.8237304687500002"
+      }
+    }
+  ]
+}
